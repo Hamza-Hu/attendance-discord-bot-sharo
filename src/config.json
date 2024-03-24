@@ -1,34 +1,10 @@
 {
     "options": [
         {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
+            "name": "الإدارة",
+            "admins": ["1153642234214875146", "1155151049355702314"],
             "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        },
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        },
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        },
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
+            "emoji": "🔰",
             "logchannel": "channel_id",
             "role": "role_id"
         }
