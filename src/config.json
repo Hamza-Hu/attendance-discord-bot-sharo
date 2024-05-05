@@ -1,12 +1,12 @@
 {
     "options": [
         {
-            "name": "تقديم للإدارة",
-            "admins": ["1077172993148600363", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
+            "name": "ADMIN Discord",
+            "admins": ["1143264880883929130", "1155151049355702314"],
+            "image": "https://cdn.discordapp.com/attachments/1236617830846300231/1236617926740672594/20240505_105715_0000.png?ex=6638a9b0&is=66375830&hm=3465264321cf86460eeee9c4ecdcd34cb6a5d31bb0e0bf6a362df81b932b9c6d&",
+            "emoji": "<:emoji_83:1236618333135044670>",
+            "logchannel": "1235006574703939584",
+            "role": "1235006205253128242"
         }
     ]
 }
